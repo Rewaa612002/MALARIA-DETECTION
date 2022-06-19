@@ -1,5 +1,5 @@
 # MALARIA-DETECTION
-Malaria detection using SVM and ANN
+Malaria detection image classification using SVM and ANN
 # Team members
 - Ahmed Hatem
 - Rewaa Ragab
