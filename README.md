@@ -1,6 +1,6 @@
 # MALARIA-DETECTION
 Malaria detection image classification using SVM and ANN
-# Team members
+## Team members
 - Ahmed Hatem
 - Rewaa Ragab
 - Hala Tag
@@ -8,5 +8,5 @@ Malaria detection image classification using SVM and ANN
 - George Elamir
 - Moamen Emad Elden
 - Mustafa Abdulnasser Abdulfattah Essa
-# Download dataset
+## Download dataset
 https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets
